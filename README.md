@@ -11,7 +11,7 @@ Junior Web Developer
 Studio Onboarding & GitHub Workspace Setup
 
 ## Live Site
-GITHUB PAGES URL
+[GITHUB PAGES URL](https://jacquelinenayeli-del.github.io/WebWorks-Studio/)
 
 ## Week 1 Requirements
 - Edit project files in Visual Studio Code.
