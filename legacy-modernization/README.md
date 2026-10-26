@@ -1,6 +1,7 @@
 # Southtown Plant Co. — Week 2 Inherited Client Site
 
-## Scenario
+## Change - Why 
+
 WebWorks Studio has inherited this small-business website from a previous developer.
 
 The site is functional, but the underlying front-end code reflects practices common in older websites. Your assignment is to modernize the code while preserving the client's content and general visual identity.
