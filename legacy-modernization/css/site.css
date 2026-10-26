@@ -7,6 +7,8 @@ body {
   margin-bottom: 18px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
+  background-color: #e8e1c9;
+  color: #333333;
 }
 
 p {
@@ -42,7 +44,8 @@ a:hover {
   height: 34px;
 }
 
-.navcell a {
+.navcell a:link,
+.navcell a:visited {
   font-family: Arial, Helvetica, sans-serif;
   color: #FFFFFF;
   font-size: 11px;
