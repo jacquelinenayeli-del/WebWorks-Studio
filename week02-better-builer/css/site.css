@@ -10,10 +10,18 @@ body {
   background-color: #e8e1c9;
   color: #333333;
 }
+
 .contact-info {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
 }
+
+.site-container {
+  width: 100%;
+  max-width: 760px;
+  margin-inline: 0;
+}
+
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
