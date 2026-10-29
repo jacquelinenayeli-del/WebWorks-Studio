@@ -10,7 +10,10 @@ body {
   background-color: #e8e1c9;
   color: #333333;
 }
-
+.contact-info {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
@@ -23,20 +26,17 @@ p {
   line-height: 23px;
   color: #4C5148;
 }
-
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 36px;
+  color: #315C3D;
+  margin-top: 0;
+}
 h2 {
   font-family: Georgia, "Times New Roman", serif;
   color: #315C3D;
   font-size: 24px;
   margin-bottom: 8px;
-}
-
-a {
-  color: #285B39;
-}
-
-a:hover {
-  color: #993300;
 }
 
 .navcell {
@@ -91,5 +91,9 @@ a:visited {
 }
 
 a:active {
+  color: #993300;
+}
+
+a:hover {
   color: #993300;
 }
