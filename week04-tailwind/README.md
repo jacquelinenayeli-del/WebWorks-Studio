@@ -34,17 +34,19 @@ Use Tailwind utilities to translate the supplied visual direction into a polishe
 ## Tailwind Decisions
 Before submitting, replace the placeholders below with approximately three examples.
 
-### Decision 1
-**Used:**  
-**Why:**  
+### responsive grid
+**Used:**  grid, grid-cols-1, md:grid-cols-2, and md:grid-cols-3
+**Why:**  Used grid utilities to organize the website into columns to allow sections like the Roast Lineup to display three cards side by side on larger screens and stack into one column on smaller screens.
 
-### Decision 2
-**Used:**  
-**Why:**  
+### Consistant spacing 
+**Used:**  py-16, py-20, p-6, and gap-6
+**Why:**  used tailwind spacing utilities to create space between sections, cards, and content. Helping keep the layout organized and made the website easier to read without writing separate CSS rules for each element.
 
-### Decision 3
-**Used:**  
-**Why:**  
+
+
+### Colors and Typography
+**Used:**  bg-[#eadbc8], text-[#30251f], font-bold, and text-xl
+**Why:**  Tailwind's background, text color, and font utilities to match the design reference, keepping the website's colors and headings consistent throughout the page.
 
 ## Live Site
 Add your published GitHub Pages URL here.
